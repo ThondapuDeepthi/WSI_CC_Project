@@ -27,3 +27,13 @@ Then the output should be = [94133,94133] [94200,94299] [94600,94699]
 
 If the input = [94133,94133] [94200,94299] [94226,94399] 
 Then the output should be = [94133,94133] [94200,94399]
+
+## Solution
+1.Right click the class file ZipCodeRangeCalculator.java and Run As -> Java Application.
+
+2. The provide zipcode range inputs from the console in the format mentioned above and press (enter).
+
+3. Final Optimized Zipcode range array will be printed out in the console.
+
+## To Execute the Testcases.
+Right click the ZipcodeRangeCalculatorTest.java file, and Run As -> JUnit Test
