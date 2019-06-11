@@ -1,4 +1,4 @@
-package com.diy.challenge;
+package com.diy.challenge.dto;
 
 import java.util.Objects;
 /**
