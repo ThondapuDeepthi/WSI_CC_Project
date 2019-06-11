@@ -36,4 +36,4 @@ Then the output should be = [94133,94133] [94200,94399]
 3. Final Optimized Zipcode range array will be printed out in the console.
 
 ## To Execute the Testcases.
-Right click the ZipcodeRangeCalculatorTest.java file, and Run As -> JUnit Test
+Right click the ZipCodeRangeProcessorTest.java file, and Run As -> JUnit Test
